@@ -1,6 +1,6 @@
 # Ruby sur des Rails : L'explication
 
-###M VC
+### MVC
 
 MVC ou le **Model View Controller** décrit la manière de fonctionner de ruby on rails. Le MVC se décompose en 3 parties :
 
