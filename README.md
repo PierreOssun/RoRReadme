@@ -1,6 +1,6 @@
 # Ruby sur des Rails : L'explication
 
-###MVC
+###M VC
 
 MVC ou le **Model View Controller** décrit la manière de fonctionner de ruby on rails. Le MVC se décompose en 3 parties :
 
@@ -22,10 +22,10 @@ Le controler est le gestionnaire central. Il recoit et envoie, traite et renvoie
 C'est dans ce fichier qu'est renseigné les differentes categories des modèles (Users,Comments,...).
 
 
-###Les routes
+### Les routes
 
-###Les Bases de Données
+### Les Bases de Données
 
-###Les relations entre les models des BDD
+### Les relations entre les models des BDD
 
-###Les fonctions du CRUD
+### Les fonctions du CRUD
