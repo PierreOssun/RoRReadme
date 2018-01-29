@@ -23,10 +23,21 @@ C'est dans ce fichier qu'est renseigné les differentes actions a réalisté sur
 
 ### Les routes
 
-Pour gérer l'enchevêtrement des pages, 
+Pour gérer l'enchevêtrement des pages, les routes servent a organiser les pages comme la colonne vertebrale de notre site.
 
 ### Les Bases de Données
 
+Les bases de données sont un tableau stockant les caratéristiques des objets. Par exemple la base de données qui stocke les membres inscrit du site est un tres long hash avec en en colonne tous les utilisteurs et en ligne toutes les cartéristiques de ces même utilisateurs.
+
 ### Les relations entre les models des BDD
 
+
+
 ### Les fonctions du CRUD
+
+Les fonctions du crud sont les fameuses **create, read, update and destroy** c'est a dire :
+
+* Create est une fonction qui va servir a creer l'objet _pour la premiere fois_ et definir ses caractéristiques de base.
+* Read est une fonction qui va _lire_ l'objet c'est à dire l'afficher pour un article ou lancer pour une video.
+* Update est une fonction qui va modifier l'objet. Elle peut modifier des caractéristiques exsitantes, soit en ajouter (un deuxieme email pour un utilisateur par exemple) ou aussi supprimer une caractéristique pré-existante.
+* Destroy est une fonction qui permet de supprimer l'objet.
