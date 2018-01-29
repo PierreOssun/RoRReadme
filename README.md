@@ -29,10 +29,6 @@ Pour gérer l'enchevêtrement des pages, les routes servent a organiser les page
 
 Les bases de données sont un tableau stockant les caratéristiques des objets. Par exemple la base de données qui stocke les membres inscrit du site est un tres long hash avec en en colonne tous les utilisteurs et en ligne toutes les cartéristiques de ces même utilisateurs.
 
-### Les relations entre les models des BDD
-
-
-
 ### Les fonctions du CRUD
 
 Les fonctions du crud sont les fameuses **create, read, update and destroy** c'est a dire :
